@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "AdWoks", "AdWoks.sqlproj", "{E1735CDF-17CE-46D3-906E-B151D095EC42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1735CDF-17CE-46D3-906E-B151D095EC42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1735CDF-17CE-46D3-906E-B151D095EC42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1735CDF-17CE-46D3-906E-B151D095EC42}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E1735CDF-17CE-46D3-906E-B151D095EC42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1735CDF-17CE-46D3-906E-B151D095EC42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1735CDF-17CE-46D3-906E-B151D095EC42}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACDCAEAA-1A97-416D-82FE-B9C7BFD5609F}
+	EndGlobalSection
+EndGlobal
